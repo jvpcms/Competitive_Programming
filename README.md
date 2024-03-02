@@ -9,4 +9,5 @@ The following concepts are used in this collection:
 - Graph theory;
 - Dijkstra's algorithm;
 - Topological sorting;
-- Depth-first search and Breadth First Search.
+- Depth-first search and Breadth First Search;
+- Data Structures.

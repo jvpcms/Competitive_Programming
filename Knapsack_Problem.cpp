@@ -2,7 +2,9 @@
 
 /* A collection of itens, each with varying "value" and "weight."
 Find out the maximum value that can be obtained in a subset of itens,
-such that the total weight does not surpass a given maximum. */
+such that the total weight does not surpass a given maximum.
+
+Keywords: Dynamic programming, Knapsack problem. */
 
 #include <bits/stdc++.h>
 using namespace std;

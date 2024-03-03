@@ -1,5 +1,11 @@
 // by jvpcms
 
+/* The problem consists of receiving a data set
+that describes a tree graph and identifying
+the length of the longest possible path.
+
+Keywords: Graph Theory, BFS. */
+
 #include<bits/stdc++.h>
 using namespace std;
 

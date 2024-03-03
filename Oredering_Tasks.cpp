@@ -1,5 +1,11 @@
 // by jvpcms
 
+/* The program must receive a dataset describing an ordered graph.
+The output must be the nodes sorted in such a way that if a node A points to node B,
+then A comes before B in the sorted sequence.
+
+Keywords: Graph Theory, Topological Sort. */
+
 #include<bits/stdc++.h>
 using namespace std;
 
